@@ -88,7 +88,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ikunshare/ikun-music-desktop.git"
+    "url": "git+https://github.com/marsfans/ikun-music-desktop.git"
   },
   "keywords": [
     "music-player",
@@ -101,9 +101,9 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ikunshare/ikun-music-desktop/issues"
+    "url": "https://github.com/marsfans/ikun-music-desktop/issues"
   },
-  "homepage": "https://github.com/ikunshare/ikun-music-desktop#readme",
+  "homepage": "https://github.com/marsfans/ikun-music-desktop#readme",
   "devDependencies": {
     "@babel/core": "^7.28.4",
     "@babel/eslint-parser": "^7.28.4",
