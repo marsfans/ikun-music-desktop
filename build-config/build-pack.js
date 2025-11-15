@@ -41,7 +41,7 @@ const options = {
   publish: [
     {
       provider: 'github',
-      owner: 'ikunshare',
+      owner: 'marsfans',
       repo: 'ikun-music-desktop',
     },
   ],
